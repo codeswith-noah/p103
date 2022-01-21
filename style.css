@@ -1,0 +1,19 @@
+body{
+    background-color:aquamarine;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#camera{
+    border-style:dashed;
+    height:300px;
+    width:360px;
+    border-radius:20px;
+}
+
+.name_of_objects{
+    color:rgb(94, 118, 119);
+}
+
+#result_object_name, #result_object_accuracy{
+    color:cornflowerblue;
+}
